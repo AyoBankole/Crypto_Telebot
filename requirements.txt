@@ -1,0 +1,9 @@
+time
+qrcode
+python-telegram-bot==13.7
+fastapi
+uvicorn
+nest_asyncio
+python-telegram-bot
+python-dotenv
+requests
