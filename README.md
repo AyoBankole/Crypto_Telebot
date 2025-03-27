@@ -15,7 +15,7 @@ A powerful Telegram bot for managing financial transactions seamlessly. This bot
 git clone https://github.com/yourusername/Finance-TeleBot.git
 
 # Navigate to the project directory
-cd Finance-TeleBot
+cd telebot
 
 # Install dependencies
 pip install -r requirements.txt
