@@ -30,7 +30,7 @@ TELEGRAM_BOT_TOKEN=your_token_here
 
 ## ▶️ Usage
 ```bash
-python bot.py
+python telebot.py
 ```
 
 The bot will be up and running, ready to assist with financial transactions! 🚀
